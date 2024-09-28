@@ -1,0 +1,14 @@
+body{
+background-color: aquamarine;
+color: rgb(50, 75, 122);
+
+}
+li{
+    list-style-type:lower-latin;
+
+}
+img{
+    width: 50px;
+    height: 2000px;
+
+}
